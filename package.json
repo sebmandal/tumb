@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@types/fs-extra": "^9.0.11",
+    "fs-extra": "^10.0.0",
+    "ts": "^0.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^15.6.1"
+  },
+  "name": "ts-characters-messages",
+  "version": "1.0.0",
+  "description": "typescript project (users & messages)",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "ts && node dist/index.js",
+    "compile": "ts",
+    "app": "node dist/index.js"
+  },
+  "keywords": [
+    "ts",
+    "typescript"
+  ],
+  "author": "Sebastian Mandal",
+  "license": "GPL-3.0-or-later"
+}
