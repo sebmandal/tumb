@@ -1,4 +1,4 @@
-# TypeScript user and message backend with JSON file database.
+# My first attempt at a TypeScript user and message backend with JSON file database.
 
 How to run this script:
 Write the following commands into the terminal.
